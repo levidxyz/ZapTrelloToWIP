@@ -1,8 +1,7 @@
 # How to Sync Todos from Trello to WIP
-### (using Zapier + WIP Badge)
----
-![Trello](https://notes.ciscospark.com/images/trello-logo.png)![Zapier + WIP Badge](https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/high-voltage-sign_26a1.png)![WIP](https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/construction-sign_1f6a7.png)
 
+![Trello](https://notes.ciscospark.com/images/trello-logo.png)![Zapier + WIP Badge](https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/high-voltage-sign_26a1.png)![WIP](https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/construction-sign_1f6a7.png)
+---
 
 ## What is this?
 Intro here
