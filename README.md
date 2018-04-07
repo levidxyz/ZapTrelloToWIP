@@ -113,5 +113,3 @@ If you want to be able to mark todos as complete just a few minutes after creati
 #### If this automation saves you time and effort, feel free to show your support [with a cup of coffee](https://www.buymeacoffee.com/levidxyz).
 #### Question / Comment? 👉 [Telegram](https://t.me/levidxyz) / [Twitter](https://twitter.com/levidxyz)
 #### Levi D 🤙
-
-T
