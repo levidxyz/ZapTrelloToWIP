@@ -61,8 +61,10 @@ Well, thats how often Zaps run to check for a trigger (new Trello cards in this 
 
 I wouldn't worry about it, unless you're creating super tiny *micro* todos that you're completing just a few minutes after creating.
 
----
 #### Happy making!
+
+---
+
 #### If this automation saves you time and effort, feel free to show your support [with a cup of coffee](https://www.buymeacoffee.com/levidxyz). ☕
 #### Question / Comment? 👉 [Telegram](https://t.me/levidxyz) / [Twitter](https://twitter.com/levidxyz)
 #### Levi D 🤙
