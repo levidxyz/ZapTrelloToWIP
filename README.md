@@ -30,7 +30,7 @@ Sweet! Lets get started. 🛠️
 
 ### Step 1: Get a Zapier Account
 ( Already have one? **Boom** 💥 Move to Step 2 )
-* [ ] here
+- [x] here
 - [ ] here
 
 ### Step 2: Blah
