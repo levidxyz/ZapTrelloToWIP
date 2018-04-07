@@ -30,13 +30,13 @@ Sweet! Lets get started. 🛠️
 
 ### Step 1: Get a Zapier Account
 ( Already have one? **Boom** 💥 Move to Step 2 )
-- [x] here
-- [ ] here
+☐ here
+✅ here
 
 ### Step 2: Blah
-- [ ] sdf
-- [ ] here
-- [ ] here
+✅ sdf
+✅ here
+✅ here
 
 
 #### *If this automation saves you time and effort as a maker, feel free to show your support [with a cup of coffee](https://www.buymeacoffee.com/levidxyz). ☕
