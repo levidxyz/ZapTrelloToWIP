@@ -19,8 +19,8 @@ Many WIP makers use Trello to manage our todos. This means for each task we want
 <br>
 
 ### How does it work?
-You set create a [Zapier](https://zapier.com/) "Zap" and a [WIP Badge](https://wipbadge.com/) "Connection".
-- The Zap will take each new Trello card and create a GitHub issue from it.
+You create a [Zapier](https://zapier.com/) "Zap" and a [WIP Badge](https://wipbadge.com/) "Connection".
+- The Zap will take each new Trello card you add and create a GitHub issue from it.
 - The Connection will take the GitHub issue and create a WIP todo for your Product.
 
 <br>
