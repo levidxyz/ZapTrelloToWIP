@@ -9,6 +9,7 @@ Intro here
 
 ## Why?
 Set up situation
+**...no longer have to re-record todos manually by sending Telegram messages to @wipbot.** 😌
 
 ## How does it work?
 Basic explanation of components
@@ -17,8 +18,6 @@ Basic explanation of components
 It is. 🤷‍♂️
 
 But you set it up **once** and then it just works.
-
-**And you no longer have to re-record todos manually by sending Telegram messages to @wipbot.** 😌
 
 Disclaimer that [WIP Badge](https://wipbadge.com/) has upcoming feature for Trello integration to make this easier, (but until then this will suffice.)
 
@@ -30,14 +29,14 @@ Disclaimer that [WIP Badge](https://wipbadge.com/) has upcoming feature for Trel
 Sweet! Lets get started. 🛠️
 
 ### Step 1: Get a Zapier Account
-( Already have one? **Boom** 💥 [Move to Step 2](#Step-2:-Blah) )
-- [ ]  here
-- [ ]  here
+( Already have one? **Boom** 💥 Move to Step 2 )
+* [ ] here
+- [ ] here
 
 ### Step 2: Blah
-- [ ]  sdf
-- [ ]  here
-- [ ]  here
+- [ ] sdf
+- [ ] here
+- [ ] here
 
 
-#### *If this automation saves you time and effort as a maker, feel free to show your support [with a cup of coffee](https://www.buymeacoffee.com/levidxyz). ☕ 🙌
+#### *If this automation saves you time and effort as a maker, feel free to show your support [with a cup of coffee](https://www.buymeacoffee.com/levidxyz). ☕
