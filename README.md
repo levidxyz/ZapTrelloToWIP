@@ -7,21 +7,21 @@
 A guide on how to **automatically sync your todos** from a list in [Trello](https://trello.com/) to a product in [WIP](https://wip.chat/).
 
 ### Why?
-Many WIP makers use Trello to manage our todos. This means for each task we want to work on in the near future, we need to record that todo **twice**:
+Many WIP makers use Trello to manage our todos. This means for each task we want to work on in the near future, **we need to record that todo twice**:
 1. Create a new card in your todo list in Trello.
 2. Send a chat message to [@wipbot](https://t.me/wipbot) using [Telegram](https://telegram.org/) (with the same info as the Trello card) to create the todo for your product in WIP.
 
 **Setting up this automation will remove the need for Step 2 completely.** 🙌
 
 ### How does it work?
-Basic explanation of components
+You set create a [Zapier](https://zapier.com/) "Zap" and a [WIP Badge](https://wipbadge.com/) "Connection". The Zap will take each new Trello card and create a Github issue from it. The Connection will the Github issue and create a WIP todo for your chosen Product.
 
-### Seems a bit cumbersome...
+### Seems like a lot of moving parts...
 It is. 🤷
 
 But you set it up **once** and then it just works.
 
-Disclaimer that [WIP Badge](https://wipbadge.com/) has upcoming feature for Trello integration to make this easier, (but until then this will suffice.)
+Also, [@joelbaudin](https://wip.chat/@joelbaudin) is working on a Trello integration for [WIP Badge](https://wipbadge.com/) to make this easier, but until then this automation works just fine.
 
 ### How long will it take to set up, and is it free?
 * **5 minutes**.
