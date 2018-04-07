@@ -20,8 +20,8 @@ Many WIP makers use Trello to manage our todos. This means for each task we want
 
 ### How does it work?
 You set create a [Zapier](https://zapier.com/) "Zap" and a [WIP Badge](https://wipbadge.com/) "Connection".
-- The Zap will take each new Trello card and create a Github issue from it.
-- The Connection will the Github issue and create a WIP todo for your chosen Product.
+- The Zap will take each new Trello card and create a GitHub issue from it.
+- The Connection will the GitHub issue and create a WIP todo for your chosen Product.
 
 ### Seems like a lot of moving parts...
 It is. 🤷
@@ -42,14 +42,14 @@ Also, [@joelbaudin](https://wip.chat/@joelbaudin) is working on a Trello integra
 
 <br>
 
-#### Step 1: Create a Github repo.
+#### Step 1: Create a GitHub repo.
 > Already have a WIP Badge connection set up? Skip to Step 4!
 
-✅ [Sign up here](https://github.com/join?source=header-home) for a free Github account if you don't already have one.
+✅ [Sign up here](https://github.com/join?source=header-home) for a free GitHub account if you don't already have one.
 
 ✅ [Create a new repo](https://help.github.com/articles/create-a-repo/) (This will store your todos in between Trello and WIP).
- - This repo can be private if you have a paid Github account, but a public repo is fine if you have a free account.
- - Name the repo anything you like. For example, "MyProductTodos"
+ > This repo can be private if you have a paid GitHub account, but a public repo is fine if you have a free account.
+ 1. Name the repo anything you like. For example, "**MyProductTodos**"
 
 <br>
 
@@ -59,17 +59,26 @@ Also, [@joelbaudin](https://wip.chat/@joelbaudin) is working on a Trello integra
 
 ✅ Enter and save your [WIP API Key](https://wip.chat/api) in your WIP Badge settings.
 
-✅ Follow the WIP Badge guide to [add a connection](https://wipbadge.com/guides) from your Github repo to your WIP product.
+✅ Follow the WIP Badge guide to [add a connection](https://wipbadge.com/guides) from your GitHub repo to your WIP product.
+> The Connection will watch for any new issues in your repo and create a new todo in WIP automatically.
 
 <br>
 
-#### Step 3: Create a Zap from Trello to Github
+#### Step 3: Create a Zap from Trello to GitHub
 
 ✅ [Sign up here](https://zapier.com/sign-up/) for a free Zapier account if you don't already have one.
 
-✅ [here](https://zapier.com/app/editor/template/563)
-
-✅ Click **Create this Zap**
+✅ Follow the steps to [create this Zap](https://zapier.com/app/editor/template/563) in your Zapier account.
+> The Zap will watch for any new cards you add to a specific Trello list and automatically create a new issue for each one in your GitHub repo.
+1. Be sure to select `New Card` as the **Trello Trigger** and connect your Trello account.
+2. After choosing your Trello Board, click `Show Advanced Options` to choose a specific list (your todo list).
+3. No need to select a "Filter". Click `Continue`.
+4. Click `Continue` to test your Trello connection.
+5. Select `Create Issue` as the **GitHub Action** and connect your GitHub account.
+6. Choose your repo (e.g. **MyProjectTodos**)
+7. Set the **Title** of the Issue as the **Name** of the Trello card.
+8. Click `Send Test to GitHub` to test your GitHub connection.
+9. Click `Finish` and make sure your new Zap is turned **ON**!
 
 <br>
 
