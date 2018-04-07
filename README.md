@@ -101,7 +101,7 @@ Within 15 minutes, they **automatically appear in your product's todo list in WI
 ### Why 15 minutes?
 That's how often Zaps will check for a trigger (i.e. new Trello card). Which means usually your todos will appear in *less* than that time.
 
-If you want to be able to make todos as complete just a few minutes after creating them, I recommend using the usual `/done` command with @wipbot in Telegram instead.
+If you want to be able to mark todos as complete just a few minutes after creating them, I recommend using the usual `/done` command with @wipbot in Telegram instead.
 
 <br>
 
