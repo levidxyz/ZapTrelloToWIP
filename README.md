@@ -31,21 +31,26 @@ Also, [@joelbaudin](https://wip.chat/@joelbaudin) is working on a Trello integra
 
 ### Lets do it. 🛠️
 
-#### Step 1: Get a Zapier account.
-> Already have one? **Boom**. Move to Step 2.
-
-✅ here
-
-#### Step 2: Create a Github repo.
+#### Step 1: Create a Github repo.
 > Already have a WIP Badge connection set up? Skip to Step 4!
 
-✅ This can be a private repo if you have a paid Github account, but a public repo is fine if you have a free account.
+✅ [Sign up here](https://github.com/join?source=header-home) for a free Github account if you don't already have one.
 
-#### Step 3: Set up a WIP Badge connection.
+✅ [Create a new repo](https://help.github.com/articles/create-a-repo/) (This will store your todos in between Trello and WIP).
+ - This repo can be private if you have a paid Github account, but a public repo is fine if you have a free account.
+ - Name the repo anything you like. For example, "MyProductTodos"
 
-✅ here
+#### Step 2: Set up a WIP Badge connection.
 
-#### Step 4: Create a Zap from Trello to Github
+✅ [Sign up here](https://wipbadge.com/signup) for a free WIP Badge account if you don't already have one.
+
+✅ Enter and save your [WIP API Key](https://wip.chat/api) in your WIP Badge settings.
+
+✅ Follow the WIP Badge guide to [add a connection](https://wipbadge.com/guides) from your Github repo to your WIP product.
+
+#### Step 3: Create a Zap from Trello to Github
+
+✅ [Sign up here](https://zapier.com/sign-up/) for a free Zapier account if you don't already have one.
 
 ✅ [here](https://zapier.com/app/editor/template/563)
 
@@ -58,7 +63,7 @@ Yep. Get back to work!
 
 Continue making as you normally do, adding new todos to your Trello list.
 
-Within 15 minutes, they **automatically** appear in your product's todo list in **WIP**.
+Within 15 minutes, they **automatically appear in your product's todo list in WIP**.
 
 ### Why 15 minutes?
 That's how often Zaps will check for a trigger (i.e. new Trello card). Which means usually your todos will appear in *less* than that time.
