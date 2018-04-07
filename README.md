@@ -23,6 +23,8 @@ You set create a [Zapier](https://zapier.com/) "Zap" and a [WIP Badge](https://w
 - The Zap will take each new Trello card and create a GitHub issue from it.
 - The Connection will the GitHub issue and create a WIP todo for your chosen Product.
 
+<br>
+
 ### Seems like a lot of moving parts...
 It is. 🤷
 
