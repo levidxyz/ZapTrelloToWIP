@@ -30,7 +30,7 @@ It is. 🤷
 
 But you set it up **once** and then it just works.
 
-Also, [@joelbaudin](https://wip.chat/@joelbaudin) is working on a Trello integration for [WIP Badge](https://wipbadge.com/) to make this easier, but until then this automation works just fine.
+Also, [@joelbaudin](https://wip.chat/@joelbaudin) is working on a Trello integration for WIP Badge to make this easier, but until then this automation works just fine.
 
 <br>
 
