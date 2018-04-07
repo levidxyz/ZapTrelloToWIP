@@ -74,17 +74,16 @@ Also, [@joelbaudin](https://wip.chat/@joelbaudin) is working on a Trello integra
 > The Zap will watch for any new cards you add to a specific Trello list and automatically create a new issue for each one in your GitHub repo.
 1. Be sure to select `New Card` as the **Trello Trigger** and connect your Trello account.
 2. After choosing your Trello Board, click `Show Advanced Options` to choose a specific list (your todo list).
-3. No need to select a "Filter". Click `Continue`.
-4. Click `Continue` to test your Trello connection.
-5. Select `Create Issue` as the **GitHub Action** and connect your GitHub account.
-6. Choose your repo (e.g. **MyProjectTodos**)
-7. Set the **Title** of the Issue as the **Name** of the Trello card.
-8. Click `Send Test to GitHub` to test your GitHub connection.
-9. Click `Finish` and make sure your new Zap is turned **ON**!
+3. Click `Continue` to test your Trello connection.
+4. Select `Create Issue` as the **GitHub Action** and connect your GitHub account.
+5. Choose your repo (**MyProjectTodos**)
+6. *Set the **Title** of the Issue as the **Name** of the Trello card.*
+7. Click `Send Test to GitHub` to test your GitHub connection.
+8. Click `Finish` and make sure your new Zap is turned **ON**!
 
 <br>
 
-#### Done! 🏁
+#### Done! 🎉
 
 <br>
 
