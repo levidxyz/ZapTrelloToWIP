@@ -14,7 +14,9 @@ Many WIP makers use Trello to manage our todos. This means for each task we want
 **Setting up this automation will remove the need for Step 2 completely.** 🙌
 
 ### How does it work?
-You set create a [Zapier](https://zapier.com/) "Zap" and a [WIP Badge](https://wipbadge.com/) "Connection". The Zap will take each new Trello card and create a Github issue from it. The Connection will the Github issue and create a WIP todo for your chosen Product.
+You set create a [Zapier](https://zapier.com/) "Zap" and a [WIP Badge](https://wipbadge.com/) "Connection".
+- The Zap will take each new Trello card and create a Github issue from it.
+- The Connection will the Github issue and create a WIP todo for your chosen Product.
 
 ### Seems like a lot of moving parts...
 It is. 🤷
@@ -30,7 +32,7 @@ Also, [@joelbaudin](https://wip.chat/@joelbaudin) is working on a Trello integra
 ### Lets do it. 🛠️
 
 #### Step 1: Get a Zapier account.
-> Already have one? **Boom** Move to Step 2.
+> Already have one? **Boom**. Move to Step 2.
 
 ✅ here
 
@@ -40,7 +42,6 @@ Also, [@joelbaudin](https://wip.chat/@joelbaudin) is working on a Trello integra
 ✅ This can be a private repo if you have a paid Github account, but a public repo is fine if you have a free account.
 
 #### Step 3: Set up a WIP Badge connection.
-> Already have one? **Bam** Move to Step 3.
 
 ✅ here
 
@@ -57,12 +58,12 @@ Yep. Get back to work!
 
 Continue making as you normally do, adding new todos to your Trello list.
 
-Within 15 minutes, they **automatically** appear in your todo list in **WIP**.
+Within 15 minutes, they **automatically** appear in your product's todo list in **WIP**.
 
 ### Why 15 minutes?
 That's how often Zaps will check for a trigger (i.e. new Trello card). Which means usually your todos will appear in *less* than that time.
 
-I wouldn't worry about it, unless you're creating *micro* todos that you want to mark as complete just a few minutes after creating them.
+If you want to be able to make todos as complete just a few minutes after creating them, I recommend using the usual `/done` command with @wipbot in Telegram instead.
 
 ---
 #### Happy making!
