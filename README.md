@@ -1,5 +1,4 @@
 # How to Sync Todos from Trello to WIP
----
 
 ![Trello](https://notes.ciscospark.com/images/trello-logo.png)![Zapier + WIP Badge](https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/high-voltage-sign_26a1.png)![WIP](https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/construction-sign_1f6a7.png)
 
@@ -51,17 +50,19 @@ Disclaimer that [WIP Badge](https://wipbadge.com/) has upcoming feature for Trel
 **Done!**
 
 ### Is that it?
-Yep. Get back to work. 🚧
+Yep. Get back to work!
 
 Continue making as you normally do, adding new todos to your Trello list.
 
-Within 15 minutes, they automatically appear in your todo list in WIP! 
+Within 15 minutes, they **automatically** appear in your todo list in **WIP** 🚧
 
 ### Why 15 minutes?
 Well, thats how often Zaps run to check for a trigger (new Trello cards in this case). Which means usually your todos will show up in less than that time.
 
 I wouldn't worry about it, unless you're creating super tiny *micro* todos that you're completing just a few minutes after creating.
 
+---
 #### Happy making!
 #### If this automation saves you time and effort, feel free to show your support [with a cup of coffee](https://www.buymeacoffee.com/levidxyz). ☕
+#### Question / Comment? 👉 [Telegram](https://t.me/levidxyz) / [Twitter](https://twitter.com/levidxyz)
 #### Levi D 🤙
