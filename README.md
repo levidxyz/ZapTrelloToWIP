@@ -4,11 +4,14 @@
 
 
 ### What is this?
-Intro here
+A guide on how to **automatically sync your todos** from a list in [Trello](https://trello.com/) to a product in [WIP](https://wip.chat/).
 
 ### Why?
-Set up situation
-**...no longer have to re-record todos manually by sending Telegram messages to @wipbot.** 😌
+Many WIP makers use Trello to manage our todos. This means for each task we want to work on in the near future, we need to record that todo **twice**:
+1. Create a new card in your todo list in Trello.
+2. Send a chat message to [@wipbot](https://t.me/wipbot) using [Telegram](https://telegram.org/) (with the same info as the Trello card) to create the todo for your product in WIP.
+
+**Setting up this automation will remove the need for Step 2 completely.** 🙌
 
 ### How does it work?
 Basic explanation of components
@@ -57,9 +60,9 @@ Continue making as you normally do, adding new todos to your Trello list.
 Within 15 minutes, they **automatically** appear in your todo list in **WIP**.
 
 ### Why 15 minutes?
-Well, thats how often Zaps run to check for a trigger (new Trello cards in this case). Which means usually your todos will show up in less than that time.
+That's how often Zaps will check for a trigger (i.e. new Trello card). Which means usually your todos will appear in *less* than that time.
 
-I wouldn't worry about it, unless you're creating super tiny *micro* todos that you're completing just a few minutes after creating.
+I wouldn't worry about it, unless you're creating *micro* todos that you want to mark as complete just a few minutes after creating them.
 
 ---
 #### Happy making!
