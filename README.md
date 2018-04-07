@@ -2,7 +2,6 @@
 
 ![Trello](https://notes.ciscospark.com/images/trello-logo.png)![Zapier + WIP Badge](https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/high-voltage-sign_26a1.png)![WIP](https://emojipedia-us.s3.amazonaws.com/thumbs/120/apple/129/construction-sign_1f6a7.png)
 
-
 ### What is this?
 A guide on how to **automatically sync your todos** from a list in [Trello](https://trello.com/) to a product in [WIP](https://wip.chat/).
 
@@ -17,6 +16,9 @@ Many WIP makers use Trello to manage our todos. This means for each task we want
 You set create a [Zapier](https://zapier.com/) "Zap" and a [WIP Badge](https://wipbadge.com/) "Connection".
 - The Zap will take each new Trello card and create a Github issue from it.
 - The Connection will the Github issue and create a WIP todo for your chosen Product.
+<br>
+<br>
+<br>
 
 ### Seems like a lot of moving parts...
 It is. 🤷
